@@ -1,2 +1,2 @@
 # captain-planet
-Awareness app for HackThePeople 2020 hckathon
+Awareness app for HackForThePeople 2020 hckathon
